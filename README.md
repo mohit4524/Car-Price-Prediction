@@ -56,7 +56,7 @@ By leveraging machine learning techniques, this project provides a data-driven a
 * Target Variable Distribution Analysis
 * Feature Relationship Analysis
 <p align="center">
-  <img src="Images/eda2" width="1000">
+  <img src="Images/eda2.png" width="1000">
 </p>
 
 <p align="center">
