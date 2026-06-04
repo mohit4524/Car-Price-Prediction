@@ -56,7 +56,7 @@ By leveraging machine learning techniques, this project provides a data-driven a
 * Target Variable Distribution Analysis
 * Feature Relationship Analysis
 <p align="center">
-  <img src="Images/eda2.png" width="500">
+  <img src="Images/eda2.png" width="700">
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ By leveraging machine learning techniques, this project provides a data-driven a
 * Multicollinearity Detection
 * Feature Importance Assessment
 <p align="center">
-  <img src="Images/stats analysis.png" width="500">
+  <img src="Images/stats analysis.png" width="700">
 </p>
 
 <p align="center">
@@ -132,10 +132,11 @@ The models were evaluated using:
 
 ---
 <p align="center">
-  <img src="Images/model.png" width="500">
+  <img src="Images/model.png" width="700">
 </p>
 
 <p align="center">
+  
 ## 🛠️ Technologies Used
 
 * Python
