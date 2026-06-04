@@ -1,4 +1,3 @@
-# Car-Price-Prediction
 <p align="center">
   <img src="Images/car_image.png" width="1000">
 </p>
