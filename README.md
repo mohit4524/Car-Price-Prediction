@@ -154,16 +154,16 @@ The models were evaluated using:
 ```text
 Car-Price-Prediction/
 │
-├── images/
+├── Data/
+│   └── cars_data.csv
+│
+├── Images/
 │   └── car_image.png
 │
-├── notebooks/
-│   └── Car_Price_Prediction.ipynb
+├── Python/
+│   └── car_price_prediction.ipynb
 │
-├── data/
-│   └── car_price_dataset.csv
-│
-├── README.md
+└── README.md
 ```
 
 ---
