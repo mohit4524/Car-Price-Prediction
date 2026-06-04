@@ -56,7 +56,7 @@ By leveraging machine learning techniques, this project provides a data-driven a
 * Target Variable Distribution Analysis
 * Feature Relationship Analysis
 <p align="center">
-  <img src="Images/eda2.png" width="1000">
+  <img src="Images/eda2.png" width="500">
 </p>
 
 <p align="center">
@@ -76,6 +76,11 @@ By leveraging machine learning techniques, this project provides a data-driven a
 * Spearman Correlation Analysis
 * Multicollinearity Detection
 * Feature Importance Assessment
+<p align="center">
+  <img src="Images/stats analysis.png" width="500">
+</p>
+
+<p align="center">
 
 ### 🔄 Data Transformation
 
@@ -126,7 +131,11 @@ The models were evaluated using:
 * RMSE (Root Mean Squared Error)
 
 ---
+<p align="center">
+  <img src="Images/model.png" width="500">
+</p>
 
+<p align="center">
 ## 🛠️ Technologies Used
 
 * Python
