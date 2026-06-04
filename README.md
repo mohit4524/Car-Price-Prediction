@@ -3,16 +3,11 @@
   <img src="Images/car_image.png" width="1000">
 </p>
 
-<h1 align="center">🚗 Car Price Prediction</h1>
-
 <p align="center">
 Predicting car ex-showroom prices using Machine Learning and 140+ vehicle features.
 </p>
 
 
-<p align="center">
-  <img src="images/car_image.png" width="1000">
-</p>
 
 ## 📌 Project Overview
 
