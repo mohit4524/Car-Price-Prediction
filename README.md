@@ -1,6 +1,6 @@
 # Car-Price-Prediction
 <p align="center">
-  <img src="images/car_image.png" width="1000">
+  <img src="Images/car_image.png" width="1000">
 </p>
 
 <h1 align="center">🚗 Car Price Prediction</h1>
